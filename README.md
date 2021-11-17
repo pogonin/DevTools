@@ -1,4 +1,5 @@
 Видео с выполнением:
+
 https://drive.google.com/file/d/1afI4TaKQrI80nAr49Ij7UDSMVVPKyP1d/view?usp=sharing
 
 0.  Открыть в Chrome сайт http://itcareer.pythonanywhere.com
